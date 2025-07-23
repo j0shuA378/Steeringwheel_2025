@@ -1,0 +1,5 @@
+"D:\clion\main\CLion 2025.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=D:/clion/toolchain/arm-gnu-toolchain-14.2.rel1-mingw-w64-i686-arm-none-eabi/bin/arm-none-eabi-gcc.exe -DCMAKE_CXX_COMPILER=D:/clion/toolchain/arm-gnu-toolchain-14.2.rel1-mingw-w64-i686-arm-none-eabi/bin/arm-none-eabi-g++.exe -G "MinGW Makefiles" -S D:\abc\Steeringwheel_2025-main\Firmware\steeringwheel -B D:\abc\Steeringwheel_2025-main\Firmware\steeringwheel\cmake-build-debug
+-- Minimal optimization, debug info included
+-- Configuring done (0.1s)
+-- Generating done (0.2s)
+-- Build files have been written to: D:/abc/Steeringwheel_2025-main/Firmware/steeringwheel/cmake-build-debug

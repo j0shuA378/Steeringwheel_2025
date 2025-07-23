@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Steeringwheel" targetName="Steeringwheel.elf" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="19b3d187-fa21-4953-a1c2-08dbd8c901c1" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="EmbeddedSvdWindowState">
+    <option name="columnWidths">
+      <list>
+        <option value="212" />
+        <option value="92" />
+        <option value="732" />
+      </list>
+    </option>
+    <option name="columnOrder">
+      <list>
+        <option value="名称" />
+        <option value="值" />
+        <option value="描述" />
+      </list>
+    </option>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/App/SLM_App.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/App/app_can.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/App/app_can.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/App/app_indev.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Bsp/bsp_LCD.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Bsp/bsp_can.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Middlewares/lvgl/lv_conf.h" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2zREQLkfR8lGkhKrD35Gz2rq0Uu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;OpenOCD 下载并运行.OCD Steeringwheel.executor&quot;: &quot;Run&quot;,
+    &quot;OpenOCD 下载并运行.steeringwheel.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.west.config.association.type.startup.service&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/abc/Steeringwheel_2025-main/Firmware/steeringwheel&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;CMakeSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="OpenOCD 下载并运行.OCD Steeringwheel">
+    <configuration name="Steeringwheel.elf" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Steeringwheel" TARGET_NAME="Steeringwheel.elf" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Steeringwheel" RUN_TARGET_NAME="Steeringwheel.elf">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OCD Steeringwheel" type="com.jetbrains.cidr.embedded.openocd.conf.type" factoryName="com.jetbrains.cidr.embedded.openocd.conf.factory" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Steeringwheel" TARGET_NAME="Steeringwheel.elf" CONFIG_NAME="Debug" version="1" RUN_TARGET_PROJECT_NAME="Steeringwheel" RUN_TARGET_NAME="Steeringwheel.elf">
+      <openocd version="1" gdb-port="3333" telnet-port="4444" board-config="D:\abc\Steeringwheel_2025-main\Firmware\steeringwheel\st_nucleo_h743zi.cfg" reset-type="INIT" download-type="UPDATED_ONLY">
+        <debugger kind="GDB" isBundled="true" />
+      </openocd>
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake 应用程序.Steeringwheel.elf" />
+      <item itemvalue="OpenOCD 下载并运行.OCD Steeringwheel" />
+    </list>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="19b3d187-fa21-4953-a1c2-08dbd8c901c1" name="更改" comment="" />
+      <created>1751685469161</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751685469161</updated>
+      <workItem from="1751685471435" duration="845000" />
+      <workItem from="1751686336468" duration="1568000" />
+      <workItem from="1751786384380" duration="1890000" />
+      <workItem from="1751788431379" duration="67000" />
+      <workItem from="1751788507633" duration="765000" />
+      <workItem from="1751789308229" duration="616000" />
+      <workItem from="1751789956394" duration="53000" />
+      <workItem from="1751790101664" duration="355000" />
+      <workItem from="1751790499661" duration="4583000" />
+      <workItem from="1751851122412" duration="232000" />
+      <workItem from="1751869532958" duration="6497000" />
+      <workItem from="1751876931874" duration="3081000" />
+      <workItem from="1751938000538" duration="12581000" />
+      <workItem from="1752040092593" duration="8931000" />
+      <workItem from="1752112043604" duration="5856000" />
+      <workItem from="1752117979361" duration="3878000" />
+      <workItem from="1752128402413" duration="631000" />
+      <workItem from="1752130299623" duration="4072000" />
+      <workItem from="1752198790340" duration="4223000" />
+      <workItem from="1752291549100" duration="3176000" />
+      <workItem from="1752301411491" duration="9286000" />
+      <workItem from="1752324449413" duration="549000" />
+      <workItem from="1752368586184" duration="690000" />
+      <workItem from="1752455181187" duration="4000" />
+      <workItem from="1752474454581" duration="3000" />
+      <workItem from="1752563974811" duration="3000" />
+      <workItem from="1752659470708" duration="10000" />
+      <workItem from="1752669818468" duration="4000" />
+      <workItem from="1752674153769" duration="149000" />
+      <workItem from="1752755866418" duration="604000" />
+      <workItem from="1752802363978" duration="3860000" />
+      <workItem from="1752821565241" duration="482000" />
+      <workItem from="1752822337812" duration="12728000" />
+      <workItem from="1752850362006" duration="345000" />
+      <workItem from="1752850934830" duration="398000" />
+      <workItem from="1752887519754" duration="9279000" />
+      <workItem from="1753060609072" duration="13699000" />
+      <workItem from="1753086742289" duration="4128000" />
+      <workItem from="1753099092878" duration="655000" />
+      <workItem from="1753100441285" duration="71000" />
+      <workItem from="1753100716985" duration="81000" />
+      <workItem from="1753100817315" duration="345000" />
+      <workItem from="1753146214016" duration="4933000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.s" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+</project>

@@ -1,0 +1,3 @@
+D:/abc/Steeringwheel_2025-main/Firmware/steeringwheel/cmake-build-debug/CMakeFiles/Steeringwheel.elf.dir
+D:/abc/Steeringwheel_2025-main/Firmware/steeringwheel/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/abc/Steeringwheel_2025-main/Firmware/steeringwheel/cmake-build-debug/CMakeFiles/rebuild_cache.dir

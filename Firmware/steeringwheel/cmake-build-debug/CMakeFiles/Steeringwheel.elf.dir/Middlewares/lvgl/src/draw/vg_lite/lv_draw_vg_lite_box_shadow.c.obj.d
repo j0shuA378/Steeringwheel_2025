@@ -1,0 +1,32 @@
+CMakeFiles/Steeringwheel.elf.dir/Middlewares/lvgl/src/draw/vg_lite/lv_draw_vg_lite_box_shadow.c.obj: \
+ D:\abc\Steeringwheel_2025-main\Firmware\steeringwheel\Middlewares\lvgl\src\draw\vg_lite\lv_draw_vg_lite_box_shadow.c \
+ D:/abc/Steeringwheel_2025-main/Firmware/steeringwheel/Middlewares/lvgl/src/misc/lv_area_private.h \
+ D:/abc/Steeringwheel_2025-main/Firmware/steeringwheel/Middlewares/lvgl/src/misc/lv_area.h \
+ D:/abc/Steeringwheel_2025-main/Firmware/steeringwheel/Middlewares/lvgl/src/lv_conf_internal.h \
+ D:/abc/Steeringwheel_2025-main/Firmware/steeringwheel/Middlewares/lvgl/src/lv_conf_kconfig.h \
+ D:\abc\Steeringwheel_2025-main\Firmware\steeringwheel\Middlewares\lvgl/lv_conf.h \
+ D:/abc/Steeringwheel_2025-main/Firmware/steeringwheel/Middlewares/lvgl/src/misc/lv_types.h \
+ D:/clion/toolchain/arm-gnu-toolchain-14.2.rel1-mingw-w64-i686-arm-none-eabi/lib/gcc/arm-none-eabi/14.2.1/include/stdint.h \
+ D:/clion/toolchain/arm-gnu-toolchain-14.2.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/stdint.h \
+ D:/clion/toolchain/arm-gnu-toolchain-14.2.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/machine/_default_types.h \
+ D:/clion/toolchain/arm-gnu-toolchain-14.2.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/sys/features.h \
+ D:/clion/toolchain/arm-gnu-toolchain-14.2.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/_newlib_version.h \
+ D:/clion/toolchain/arm-gnu-toolchain-14.2.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/sys/_intsup.h \
+ D:/clion/toolchain/arm-gnu-toolchain-14.2.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/sys/_stdint.h \
+ D:/clion/toolchain/arm-gnu-toolchain-14.2.rel1-mingw-w64-i686-arm-none-eabi/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
+ D:/clion/toolchain/arm-gnu-toolchain-14.2.rel1-mingw-w64-i686-arm-none-eabi/lib/gcc/arm-none-eabi/14.2.1/include/stdbool.h \
+ D:/clion/toolchain/arm-gnu-toolchain-14.2.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/inttypes.h \
+ D:/clion/toolchain/arm-gnu-toolchain-14.2.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/newlib.h \
+ D:/clion/toolchain/arm-gnu-toolchain-14.2.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/sys/config.h \
+ D:/clion/toolchain/arm-gnu-toolchain-14.2.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/machine/ieeefp.h \
+ D:/clion/toolchain/arm-gnu-toolchain-14.2.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/_ansi.h \
+ D:/clion/toolchain/arm-gnu-toolchain-14.2.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/sys/_locale.h \
+ D:/clion/toolchain/arm-gnu-toolchain-14.2.rel1-mingw-w64-i686-arm-none-eabi/lib/gcc/arm-none-eabi/14.2.1/include/limits.h \
+ D:/clion/toolchain/arm-gnu-toolchain-14.2.rel1-mingw-w64-i686-arm-none-eabi/lib/gcc/arm-none-eabi/14.2.1/include/syslimits.h \
+ D:/clion/toolchain/arm-gnu-toolchain-14.2.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/limits.h \
+ D:/clion/toolchain/arm-gnu-toolchain-14.2.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/sys/cdefs.h \
+ D:/clion/toolchain/arm-gnu-toolchain-14.2.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/sys/syslimits.h \
+ D:/clion/toolchain/arm-gnu-toolchain-14.2.rel1-mingw-w64-i686-arm-none-eabi/lib/gcc/arm-none-eabi/14.2.1/include/stdarg.h \
+ D:/abc/Steeringwheel_2025-main/Firmware/steeringwheel/Middlewares/lvgl/src/misc/lv_math.h \
+ D:\abc\Steeringwheel_2025-main\Firmware\steeringwheel\Middlewares\lvgl\src\draw\vg_lite\lv_draw_vg_lite.h \
+ D:/abc/Steeringwheel_2025-main/Firmware/steeringwheel/Middlewares/lvgl/src/lv_conf_internal.h
